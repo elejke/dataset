@@ -5,6 +5,4 @@ I've decided that we don't really need a category of "everything else"; an objec
 So, the `stupid_photo` folder was deleted. 
 
 
-+ 
-
-https://drive.google.com/open?id=1rsU_gYMXewrPLNE9VWskop4k-vpR8FFo
++ https://drive.google.com/open?id=1dLL410VNiuUBaY5jsnBc1uPYVEK25qb2
